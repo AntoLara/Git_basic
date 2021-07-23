@@ -8,4 +8,4 @@ Este texto fue agregado para hacer uso de github desktop
 
 Texto agregado desde Visual Studio Core (otra vez)
 
-Texto agregado desde VSC y la extención Github
+Otro texto agregado desde VSC
