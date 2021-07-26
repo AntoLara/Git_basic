@@ -9,3 +9,6 @@ Este texto fue agregado para hacer uso de github desktop
 Texto agregado desde Visual Studio Core (otra vez)
 
 Otro texto agregado desde VSC
+
+Texto aggregado con el plugin de GitHubd en VSC
+
